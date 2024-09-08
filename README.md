@@ -1,4 +1,4 @@
-﻿# prior-ranking-saaty 📊
+﻿# prior-ranking-kendall 📊
 
  ### _The desktop app which helps to find result-based priority ranking using Kendall's coefficient of concordance_
 
